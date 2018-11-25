@@ -17,7 +17,7 @@ int main()
 
 	istringstream iss1(v1string);
 	vector<int> v1{ istream_iterator<int>{iss1},
-							istream_iterator<int>() };
+		istream_iterator<int>() };
 
 	istringstream iss2(v2string);
 	vector<int> v2{ istream_iterator<int>{iss2},
@@ -74,6 +74,4 @@ int main()
 	if (maxMins < 10)
 		cout << "0";
 	cout << maxMins << endl;
-
-	system("pause");
 }

@@ -67,5 +67,4 @@ int main()
 	}
 
 	cout << endl;
-	system("pause");
 }
