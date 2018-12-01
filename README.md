@@ -13,6 +13,19 @@ Homeworks:
 
 5.| Stacks And Queues https://www.hackerrank.com/contests/si-practice-5/challenges
 
-6.| Linked List Implementation https://www.hackerrank.com/contests/sdatest3-hw/challenges
+6.1.| Linked List Implementation https://www.hackerrank.com/contests/sdatest3-hw/challenges
 
-7.| Binary Search Trees https://www.hackerrank.com/contests/sda-hw-6/challenges
+6.2.| Binary Search Trees https://www.hackerrank.com/contests/sda-hw-6/challenges
+
+8.| https://www.hackerrank.com/contests/si-practice-7/challenges
+
+
+Exams:
+
+1.| https://www.hackerrank.com/contests/sda-test/challenges
+
+2.| https://www.hackerrank.com/contests/sda-ttest-2/challenges
+
+3.| https://www.hackerrank.com/contests/sdatest3-hw/challenges
+
+4.| https://www.hackerrank.com/test4-sda-
