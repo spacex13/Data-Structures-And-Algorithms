@@ -17,8 +17,9 @@ Homeworks:
 
 6.2.| Binary Search Trees https://www.hackerrank.com/contests/sda-hw-6/challenges
 
-8.| https://www.hackerrank.com/contests/si-practice-7/challenges
+7.| Heaps https://www.hackerrank.com/contests/si-practice-7/challenges
 
+8.| Balanced Trees https://www.hackerrank.com/contests/si-practice-7/challenges
 
 Exams:
 
