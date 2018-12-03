@@ -19,7 +19,7 @@ Homeworks:
 
 7.| Heaps https://www.hackerrank.com/contests/si-practice-7/challenges
 
-8.| Balanced Trees https://www.hackerrank.com/contests/si-practice-7/challenges
+8.| Balanced Trees https://www.hackerrank.com/contests/sda-hw-8/challenges
 
 Exams:
 
