@@ -3,23 +3,25 @@ Exercises, Homeworks and Exams done for the Data Structures And Algorithms Cours
 
 Homeworks:
 
-1.| https://www.hackerrank.com/contests/practice-1-si/challenges
+1.| <a href="https://www.hackerrank.com/contests/practice-1-si/challenges">Logical Tasks</a>
 
-2.| Sorting algorithms https://www.hackerrank.com/contests/si-practice-2/challenges
+2.| <a href="https://www.hackerrank.com/contests/si-practice-2/challenges">Sorting algorithms</a>
 
-3.| Searching Algorithms https://www.hackerrank.com/contests/practice-3-1/challenges
+3.| <a href="https://www.hackerrank.com/contests/practice-3-1/challenges">Searching Algorithms</a>
 
-4.| Linked Lists https://www.hackerrank.com/contests/si-practice-4/challenges
+4.| <a href="https://www.hackerrank.com/contests/si-practice-4/challenges">Linked Lists</a>
 
-5.| Stacks And Queues https://www.hackerrank.com/contests/si-practice-5/challenges
+5.| <a href="https://www.hackerrank.com/contests/si-practice-5/challenges">Stacks And Queues</a>
 
-6.1.| Linked List Implementation https://www.hackerrank.com/contests/sdatest3-hw/challenges
+6.1.| <a href="https://www.hackerrank.com/contests/sdatest3-hw/challenges">Linked List Implementation</a>
 
-6.2.| Binary Search Trees https://www.hackerrank.com/contests/sda-hw-6/challenges
+6.2.| <a href="https://www.hackerrank.com/contests/sda-hw-6/challenges">Binary Search Tree</a>
 
-7.| Heaps https://www.hackerrank.com/contests/si-practice-7/challenges
+7.| <a href="https://www.hackerrank.com/contests/si-practice-7/challenges">Heaps</a>
 
-8.| Balanced Trees https://www.hackerrank.com/contests/sda-hw-8/challenges
+8.| <a href="https://www.hackerrank.com/contests/sda-hw-8/challenges">Balanced Trees</a>
+
+9.| <a href="https://www.hackerrank.com/contests/sda-hw-9/challenges">Hashing</a>
 
 Exams:
 
