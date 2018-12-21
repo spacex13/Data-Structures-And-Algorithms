@@ -34,3 +34,5 @@ Exams:
 3.| https://www.hackerrank.com/contests/sdatest3-hw/challenges
 
 4.| https://www.hackerrank.com/test4-sda-
+
+5.| https://www.hackerrank.com/contests/sda-test-5/challenges
