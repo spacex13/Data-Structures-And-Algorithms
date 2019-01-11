@@ -25,6 +25,8 @@ Homeworks:
 
 10.| <a href="https://www.hackerrank.com/contests/sda-hw-10/challenges">Graphs</a>
 
+11.| <a href="https://www.hackerrank.com/contests/sda-hw-11/challenges">Dijkstra's, Prim's and Kruskal's Algorithms</a>
+
 Exams:
 
 1.| https://www.hackerrank.com/contests/sda-test/challenges
@@ -36,3 +38,5 @@ Exams:
 4.| https://www.hackerrank.com/test4-sda-
 
 5.| https://www.hackerrank.com/contests/sda-test-5/challenges
+
+6.| https://www.hackerrank.com/test6-sda
